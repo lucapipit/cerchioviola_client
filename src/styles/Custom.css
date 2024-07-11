@@ -1,0 +1,23 @@
+:root {
+    --gray: #bababa;
+    --lightGray: #eaeaea;
+}
+
+.noDecoration {
+    text-decoration: none;
+}
+.myCursor{
+    cursor: pointer;
+}
+
+/* color */
+.lightGrayColor {
+    color: var(--lightGray);
+}
+.grayColor {
+    color: var(--gray);
+}
+/* background color */
+.bgBlack{
+    background-color: black;
+}
